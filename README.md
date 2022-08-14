@@ -39,15 +39,20 @@ It is a deep data analysis into sales prediction for food items sold at various 
 The RMSE or Root Mean Squared Error had the least error difference in dollars. An RMSE of 1094, tells us that our model is making an average error of 1,094 dollars on the test data. While, the Random Forest model had an average error of 1,122 dollars on the test data.
 
 #### Visual 1 - Outlet Sales by Outlet Locations
-![My Image](https://github.com/Jonny-T87/Dojo-Projects/blob/main/OutletSales_OutletLocation.png)
+![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/outlet_sales.png)
 
 > Showing Outlet Sales in $ by Outlet Locations. Tier 2 and Tier 3 have higher sales than Tier 1 and there is a large difference.
 > 
 #### Visual 2 - Item Store Sales and Price by Outlet Type
-![My Image](https://github.com/Jonny-T87/Dojo-Projects/blob/main/OutletSales_ItemMRP.png)
+![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/by_store_size.png)
 > Grocery Stores have less Sales per Item MRP. Overall, SuperMarket Type 3 has the most Sales per Item MRP.
 > 
 
+> 
+#### Visual 3 - Item Store Sales by Item Fat Content
+![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/food_sales.png)
+> Do Low Fat Items have more sales than Regulare Fat Items?
+> 
 ## Model
 
 Based on the 2 different models (linear & Random Forest) tested on the data set. I determined the best model to implement would be the linear regression model. 
