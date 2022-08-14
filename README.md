@@ -49,9 +49,9 @@ The RMSE or Root Mean Squared Error had the least error difference in dollars. A
 > 
 
 > 
-#### Visual 3 - Item Store Sales by Item Fat Content
-![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/food_sales.png)
-> Do Low Fat Items have more sales than Regulare Fat Items?
+#### Visual 3 - What are Item Sales per Store Size
+![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/outletsize_product_sales.png)
+> Diffrent Product Item Sales by Store Size with more than 1000 sales.
 > 
 ## Model
 
