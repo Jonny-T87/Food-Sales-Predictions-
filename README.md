@@ -1,5 +1,7 @@
 # Food-Sales-Predictions-
 
+![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/foodSales.jpg)
+
 # Item Outlet Sales Influenced by Unique Factors
 ## The analysis of Item Outlet Sales to Item Type, Item MRP, Item Visibility and Many Others
 
