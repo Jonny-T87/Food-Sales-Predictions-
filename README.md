@@ -13,14 +13,14 @@ The goal of the data is to predict sales.
 
 ### Business problem:
 
-How many Items does an Outlet sell based on Item MRPs?\
+How many Items does an Outlet sell based on Item MSRPs?\
 What are the # of Outlets based on Size?\
-What is the Avg. Item MRP and Item weight?\
+What is the Avg. Item MSRP and Item weight?\
 What are Item Outlet Sales based on Outlet Size?\
 What are the Avg. Item Sales based on Outlet Types?\
 What is Item MRP for different Item Fat Content?\
 What are the Outlet Sales compared to Outlet Tier Locations?\
-What are the Item MRP and Outlet Sales based on Outlet Store Type?
+What are the Item MSRP and Outlet Sales based on Outlet Store Type?
 
 ### Data:
 Source of file is included below,\
@@ -47,7 +47,7 @@ The RMSE or Root Mean Squared Error had the least error difference in dollars. A
 > 
 #### Visual 2 - Item Store Sales and Price by Outlet Type
 ![My Image](https://github.com/Jonny-T87/Food-Sales-Predictions-/blob/main/Images/by_store_size.png)
-> Grocery Stores have less Sales per Item MRP. Overall, SuperMarket Type 3 has the most Sales per Item MRP.
+> Grocery Stores have less Sales per Item MRP. Overall, SuperMarket Type 3 has the most Sales per Item MSRP.
 > 
 
 > 
